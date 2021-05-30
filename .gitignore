@@ -1,0 +1,5 @@
+.gopath
+bin/*
+*.log
+tmp
+.idea
